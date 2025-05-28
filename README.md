@@ -6,9 +6,9 @@ I'm Ariel, I like modding unity games specifically `Gorilla Tag`.
 - [Lobby Logger](https://github.com/arielthemonke/LobbyLogger)
 
 # My Stats
-![arielthemonke's Stats](https://github-readme-stats.vercel.app/api?username=arielthemonke&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)<br/>
-![arielthemonke's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arielthemonke&theme=highcontrast&hide_border=false)<br/>
-![arielthemonke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arielthemonke&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)<br/>
+![arielthemonke's Stats](https://github-readme-stats.vercel.app/api?username=arielthemonke&theme=blueberry&show_icons=true&hide_border=false&count_private=true)<br/>
+![arielthemonke's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arielthemonke&theme=blueberry&hide_border=false)<br/>
+![arielthemonke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arielthemonke&theme=blueberry&show_icons=true&hide_border=false&layout=compact)<br/>
 for some reason my most used language is not C#, idk why, all I do is C#<br/>
 
 # My languages
