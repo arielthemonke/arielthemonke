@@ -3,7 +3,7 @@ I'm Ariel, I like modding unity games specifically `Gorilla Tag`.
 
 # Featured repos
 - [Gorilla Stats](https://github.com/arielthemonke/GorillaStats)
-- [Lobby Logger](https://github.com/arielthemonke/LobbyLogger)
+- [Capu Cosmetics](https://github.com/arielthemonke/CapuCosmetics)
 
 # My Stats
 ![arielthemonke's Stats](https://github-readme-stats.vercel.app/api?username=arielthemonke&theme=blueberry&show_icons=true&hide_border=false&count_private=true)<br/>
