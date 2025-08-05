@@ -2,8 +2,8 @@
 I'm Ariel, I like modding unity games specifically `Gorilla Tag`.
 
 # Featured repos
+- [Monke Mod Manager Avalonia UI](https://github.com/arielthemonke/MonkeModManager)
 - [Gorilla Stats](https://github.com/arielthemonke/GorillaStats)
-- [Capu Cosmetics](https://github.com/arielthemonke/CapuCosmetics)
 
 # My Stats
 ![arielthemonke's Stats](https://github-readme-stats.vercel.app/api?username=arielthemonke&theme=blueberry&show_icons=true&hide_border=false&count_private=true)<br/>
@@ -20,5 +20,3 @@ for some reason my most used language is not C#, idk why, all I do is C#<br/>
 ![Static Badge](https://img.shields.io/badge/Hebrew-blue)
 ![Static Badge](https://img.shields.io/badge/English-red)
 ![Static Badge](https://img.shields.io/badge/A%20bit%20of-Arabic-yellow)
-### some other stuff
-![Visitor Badge](https://komarev.com/ghpvc/?username=arielthemonke&style=flat-square)
